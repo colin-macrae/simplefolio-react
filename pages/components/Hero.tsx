@@ -9,7 +9,7 @@ const Hero = () => {
       <div className="px-8 lg:px-32 flex flex-col justify-center align-between">
         <h1 className="text-6xl mt-64 font-bold tracking-wide">
           Hi, I'm
-          <span className="ml-3 whitespace-nowrap bg-gradient-to-r from-green-600 via-teal-500 to-blue-700 bg-clip-text text-transparent">
+          <span className="ml-3 whitespace-normal bg-gradient-to-r from-green-600 via-teal-500 to-blue-700 bg-clip-text text-transparent">
             {hero.name}
           </span>
           ,
