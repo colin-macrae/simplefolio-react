@@ -15,10 +15,10 @@ function ContactForm() {
 
   return (
     <div className="w-full sm:w-full md:w-3/4 lg:w-1/2 mt-16 mx-auto">
-      <form 
-        onSubmit={handleSubmit} 
+      <form
+        onSubmit={handleSubmit}
         action={`https://formspree.io/f/${contact.formId}`}
-        method="post" 
+        method="post"
         className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4"
       >
         <div className="mb-4">
@@ -50,7 +50,10 @@ function ContactForm() {
           />
         </div>
         <div className="mb-4">
-          <label className="block text-gray-700 font-bold mb-2" htmlFor="message">
+          <label
+            className="block text-gray-700 font-bold mb-2"
+            htmlFor="message"
+          >
             Message
           </label>
           <textarea
@@ -62,24 +65,24 @@ function ContactForm() {
             value={message}
             onChange={(event) => setMessage(event.target.value)}
           />
-          <ValidationError 
-            prefix="Message" 
+          <ValidationError
+            prefix="Message"
             field="message"
             errors={state.errors}
           />
         </div>
         <div className="flex items-center justify-center">
-          <button 
+          <button
             type="submit"
             disabled={state.submitting}
-            className="text-lg font-bold p-0.5 mt-6 w-44 bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
+            className="text-lg font-bold p-0.5 mt-6 w-44 bg-gradient-to-r from-green-600 via-teal-500 to-blue-700"
           >
             <div className="bg-white">
-              <span className="block p-2 font-semibold bg-white font-bold bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 bg-clip-text text-transparent">
+              <span className="block p-2 font-semibold bg-white font-bold bg-gradient-to-r from-green-600 via-teal-500 to-blue-700 bg-clip-text text-transparent">
                 Send
               </span>
-          </div>
-        </button>
+            </div>
+          </button>
         </div>
       </form>
     </div>
