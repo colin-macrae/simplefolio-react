@@ -17,7 +17,7 @@ export default function Document() {
         <Hero />
         <About />
         <Projects />
-        <Contact />
+        {/* <Contact /> */}
         <Footer />
       </body>
     </Html>
