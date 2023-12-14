@@ -52,7 +52,7 @@
         "description": "A to-do app for users to make lists, filter, reorder, and delete items",
         "url": "https://colins-todo-app.netlify.app/",
         "github": "https://github.com/colin-macrae/to-do-app",
-        "image": "/todoApp.gif"
+        "image": "/todoApp.png"
       }
     ]
   },
