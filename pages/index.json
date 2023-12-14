@@ -27,26 +27,33 @@
     "title": "Projects",
     "projects": [
       {
-        "title": "Project 1",
-        "description": "Describe the project being very specific, you can use the Twitter standard: no more than 280 characters: complement the information: the skills learned or reinforced in its realization and how you faced it, prove to be proactive in the search for solutions.",
-        "url": "http://www.example.com/project1",
+        "title": "Project 2",
+        "description": "Demonstrate in this description the skills of a programmer: such as having commitment, having perseverance and accepting alternative solutions. Remember that being a portfolio you are not selling the project, you are selling yourself, it reflects the resources used: Frameworks, libraries, platforms, etc.",
+        "url": "http://www.example.com/project2",
         "github": "http://www.example.com/github",
         "image": "/placeholder-700x350.png"
       },
       {
-				"title": "Project 2",
-				"description": "Demonstrate in this description the skills of a programmer: such as having commitment, having perseverance and accepting alternative solutions. Remember that being a portfolio you are not selling the project, you are selling yourself, it reflects the resources used: Frameworks, libraries, platforms, etc.",
-				"url": "http://www.example.com/project2",
+        "title": "Project 2",
+        "description": "Demonstrate in this description the skills of a programmer: such as having commitment, having perseverance and accepting alternative solutions. Remember that being a portfolio you are not selling the project, you are selling yourself, it reflects the resources used: Frameworks, libraries, platforms, etc.",
+        "url": "http://www.example.com/project2",
         "github": "http://www.example.com/github",
-				"image": "/placeholder-700x350.png"
-			},
+        "image": "/placeholder-700x350.png"
+      },
       {
-				"title": "Project 3",
-				"description": "If the project was collaborative, reflect it in this description, that will demonstrate communication and/or leadership skills. Additionally, if you made use of the mastery of a second language, it will reflect on you professionalism.",
-				"url": "http://www.example.com/project3",
+        "title": "Yellowstone Escape",
+        "description": "This is a React rebuild of my VanillaJS Yellowstone Escape site, accessing the National Parks and Services API.",
+        "url": "https://yellowstone-escape-reactjs.netlify.app/",
         "github": "http://www.example.com/github",
-				"image": "/placeholder-700x350.png"
-			}
+        "image": "/yellowstone.png"
+      },
+      {
+        "title": "Project 3",
+        "description": "If the project was collaborative, reflect it in this description, that will demonstrate communication and/or leadership skills. Additionally, if you made use of the mastery of a second language, it will reflect on you professionalism.",
+        "url": "http://www.example.com/project3",
+        "github": "http://www.example.com/github",
+        "image": "/placeholder-700x350.png"
+      }
     ]
   },
   "contact": {
