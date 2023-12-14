@@ -27,11 +27,11 @@
     "title": "Projects",
     "projects": [
       {
-        "title": "Project 2",
+        "title": "Omnifood",
         "description": "Demonstrate in this description the skills of a programmer: such as having commitment, having perseverance and accepting alternative solutions. Remember that being a portfolio you are not selling the project, you are selling yourself, it reflects the resources used: Frameworks, libraries, platforms, etc.",
-        "url": "http://www.example.com/project2",
-        "github": "http://www.example.com/github",
-        "image": "/placeholder-700x350.png"
+        "url": "https://colins-omnifood-css-project.netlify.app/#",
+        "github": "https://github.com/colin-macrae/Omnifood-Desktop--working-230727-",
+        "image": "/omnifood.png"
       },
       {
         "title": "Project 2",
@@ -44,7 +44,7 @@
         "title": "Yellowstone Escape",
         "description": "This is a React rebuild of my VanillaJS Yellowstone Escape site, accessing the National Parks and Services API.",
         "url": "https://yellowstone-escape-reactjs.netlify.app/",
-        "github": "http://www.example.com/github",
+        "github": "https://github.com/colin-macrae/Yellowstone-Escape---VITE-REACT-version",
         "image": "/yellowstone.png"
       },
       {
