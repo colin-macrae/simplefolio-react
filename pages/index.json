@@ -48,11 +48,11 @@
         "image": "/yellowstone.png"
       },
       {
-        "title": "Yellowstone Escape",
-        "description": "This is a React rebuild of my VanillaJS Yellowstone Escape site, accessing the National Parks and Services API",
-        "url": "https://yellowstone-escape-reactjs.netlify.app/",
-        "github": "https://github.com/colin-macrae/Yellowstone-Escape---VITE-REACT-version",
-        "image": "/yellowstone.png"
+        "title": "To-do App",
+        "description": "A to-do app for users to make lists, filter, reorder, and delete items",
+        "url": "https://colins-todo-app.netlify.app/",
+        "github": "https://github.com/colin-macrae/to-do-app",
+        "image": "/todoApp.gif"
       }
     ]
   },
