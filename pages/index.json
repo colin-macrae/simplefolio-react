@@ -27,18 +27,18 @@
     "title": "Projects",
     "projects": [
       {
-        "title": "Omnifood",
-        "description": "A dunmy HTML & CSS site I built as part of a tutorial",
-        "url": "https://colins-omnifood-css-project.netlify.app/#",
-        "github": "https://github.com/colin-macrae/Omnifood-Desktop--working-230727-",
-        "image": "/omnifood.png"
-      },
-      {
         "title": "Pinocelli Cycling Apparel",
         "description": "A full-stack ecommerce web application for cyclists, for the purchase of premium cycling apparel",
         "url": "https://pinocelli-app.azurewebsites.net/",
         "github": "https://github.com/colin-macrae/pinocelli-cycling-apparel",
         "image": "/pinocelli.png"
+      },
+      {
+        "title": "Omnifood",
+        "description": "A dunmy HTML & CSS site I built as part of a tutorial",
+        "url": "https://colins-omnifood-css-project.netlify.app/#",
+        "github": "https://github.com/colin-macrae/Omnifood-Desktop--working-230727-",
+        "image": "/omnifood.png"
       },
       {
         "title": "Yellowstone Escape",
