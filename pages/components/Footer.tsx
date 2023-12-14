@@ -16,12 +16,13 @@ const Footer = () => {
         <a rel="noreferrer" href={footer.linkedin} target="_blank">
           <i className="devicon-linkedin-plain"></i>
         </a>
-        {/* <a rel="noreferrer" href={footer.github} target="_blank">
+        <a rel="noreferrer" href={footer.github} target="_blank">
           <i className="devicon-github-original"></i>
-        </a> */}
+        </a>
       </div>
       <span className="text-sm text-center text-neutral-600">
-        © {getYear()} - Template developed by <a href="https://www.dylanarveson.com">Dylan Arveson</a>
+        © {getYear()} - This portfolio template was developed by{" "}
+        <a href="https://github.com/dyyllaann">Dylan Arveson</a>
       </span>
     </div>
   );

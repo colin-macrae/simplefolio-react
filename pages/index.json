@@ -46,6 +46,13 @@
         "url": "https://yellowstone-escape-reactjs.netlify.app/",
         "github": "https://github.com/colin-macrae/Yellowstone-Escape---VITE-REACT-version",
         "image": "/yellowstone.png"
+      },
+      {
+        "title": "Yellowstone Escape",
+        "description": "This is a React rebuild of my VanillaJS Yellowstone Escape site, accessing the National Parks and Services API",
+        "url": "https://yellowstone-escape-reactjs.netlify.app/",
+        "github": "https://github.com/colin-macrae/Yellowstone-Escape---VITE-REACT-version",
+        "image": "/yellowstone.png"
       }
     ]
   },
@@ -57,6 +64,6 @@
   "footer": {
 		"linkedin": "https://www.linkedin.com/in/colin-sean-macrae/",
 		"twitter": "",
-		"github": ""
+		"github": "https://github.com/colin-macrae"
 	}
 }
