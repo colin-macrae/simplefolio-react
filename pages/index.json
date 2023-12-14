@@ -19,9 +19,9 @@
   },
   "about": {
     "title": "About me",
-    "image": "/placeholder.png",
-    "primary": "This is where you can describe about yourself. The more you describe about yourself, the more chances you have!",
-    "secondary": "Extra Information about you! like hobbies and your goals."
+    "image": "/colin-macrae.jpg",
+    "primary": "Hello! I'm a passionate full-stack developer currently immersing myself in the dynamic realm of front-end development. Hailing from Orange County, CA, my journey into the world of coding began with a pivotal career change sparked by insightful conversations with developer friends. Encouraged by their enthusiasm, I delved into self-learning and formal education, completing an accelerated software development program at LearningFuze.",
+    "secondary": "My initial curiosity evolved into a deep-seated enjoyment of coding, leading me to commit full-time to becoming a proficient developer. Prior to this transformative career shift, I had diverse experiences in Taiwan, where I navigated roles ranging from branding consulting and project management to writing/editing academic journals and ESL materials, procurement, quality assurance, and English teaching. In the midst of this, I pursued my passion for Mandarin Chinese, earned my MBA, and dedicated time to cycling competitions—all while relishing the unique charm of Taiwan and its wonderful people."
   },
   "projects": {
     "title": "Projects",
