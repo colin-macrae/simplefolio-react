@@ -34,11 +34,11 @@
         "image": "/omnifood.png"
       },
       {
-        "title": "Project 2",
-        "description": "Demonstrate in this description the skills of a programmer: such as having commitment, having perseverance and accepting alternative solutions. Remember that being a portfolio you are not selling the project, you are selling yourself, it reflects the resources used: Frameworks, libraries, platforms, etc.",
-        "url": "http://www.example.com/project2",
-        "github": "http://www.example.com/github",
-        "image": "/placeholder-700x350.png"
+        "title": "Pinocelli Cycling Apparel",
+        "description": "A full-stack ecommerce web application for cyclists, for the purchase of premium cycling apparel",
+        "url": "https://pinocelli-app.azurewebsites.net/",
+        "github": "https://github.com/colin-macrae/pinocelli-cycling-apparel",
+        "image": "/pinocelli.png"
       },
       {
         "title": "Yellowstone Escape",
@@ -46,13 +46,6 @@
         "url": "https://yellowstone-escape-reactjs.netlify.app/",
         "github": "https://github.com/colin-macrae/Yellowstone-Escape---VITE-REACT-version",
         "image": "/yellowstone.png"
-      },
-      {
-        "title": "Project 3",
-        "description": "If the project was collaborative, reflect it in this description, that will demonstrate communication and/or leadership skills. Additionally, if you made use of the mastery of a second language, it will reflect on you professionalism.",
-        "url": "http://www.example.com/project3",
-        "github": "http://www.example.com/github",
-        "image": "/placeholder-700x350.png"
       }
     ]
   },
