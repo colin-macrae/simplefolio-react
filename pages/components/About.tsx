@@ -32,12 +32,12 @@ const About = () => {
           <div className="mt-6 mx-auto md:mx-0 border-2 border-white py-1 px-2 w-36 text-center font-bold">
             <a
               href={
-                "https://docs.google.com/document/d/1o5niRsFxZFxehwFUHhuJVmeQ-llwqjjLWkA84rUMPP0/edit"
+                'https://drive.google.com/file/d/1tBIugOv_zZ7ix3jJNoK1xXrd8KUn7A9f/view?usp=drive_link'
               }
               target="_blank"
               className="about__resume text-white text-l"
             >
-              View Resume
+              Contact & Resume
             </a>
           </div>
         </div>
