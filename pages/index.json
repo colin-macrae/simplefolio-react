@@ -20,7 +20,7 @@
   "about": {
     "title": "About me",
     "image": "/colin-macrae.jpg",
-    "primary": "I’m a full-stack developer with a front-end focus, currently based in Orange County, CA. My journey into tech began after a career shift from diverse roles in Taiwan—including branding, project management, and ESL teaching—while also earning an MBA. Now, I specialize in building scalable web applications using React, TypeScript, and Tailwind CSS. Currently at Teamshares, I own the main website prject for Massachussets Commercial Cleaning, where I lead junior engineers on the project and handled client communications, while rebuilding the company website with modern tech stacks like serverless forms (EmailJS).  I also worked with The Daily Wire to develop their 2024 Elections Hub for the Presidential & General Election, handling high-traffic needs and researching voter tools. I also contribute as a volunteer web developer for Hack for LA, maintaining open-source projects through code reviews and agile collaboration.",
+    "primary": "I’m a full-stack developer, currently based in Orange County, CA. My journey into tech began after a career shift from diverse roles in Taiwan—including branding, project management, and ESL teaching—while also earning an MBA. Now, I specialize in building scalable web applications using React, TypeScript, and Tailwind CSS. Currently at Teamshares, I own the main website prject for Massachussets Commercial Cleaning, where I lead junior engineers on the project and handled client communications, while rebuilding the company website with modern tech stacks like serverless forms (EmailJS).  I also worked with The Daily Wire to develop their 2024 Elections Hub for the Presidential & General Election, handling high-traffic needs and researching voter tools. I also contribute as a volunteer web developer for Hack for LA, maintaining open-source projects through code reviews and agile collaboration.",
     "secondary": "Beyond coding, I bring a unique blend of cross-disciplinary experience—from academic writing and procurement to quality assurance—along with a passion for Mandarin Chinese and competitive cycling. My background in varied industries helps me approach problems creatively, whether optimizing workflows, improving UX, or delivering clean, maintainable code. I thrive in collaborative environments while continuously expanding my technical skills."
   },
   "projects": {
@@ -28,24 +28,24 @@
     "projects": [
       {
         "title": "The Daily Wire",
-        "description": "A one-page WordPress build with a blog/announcements page in place (not activated yet).  This site was a quick 48-hour turnaround for a friend starting a small bilingual church within a Mandarin Chinese church in Taichung, Taiwan. Volunteer project.",
-        "url": "https://muyi-bilingual.com/",
-        "github": "https://github.com/colin-macrae/pinocelli-cycling-apparel",
-        "image": "/muyi-bilingual.png"
+        "description": "Developed a dynamic election tracking platform for the 2024 presidential race using React and TypeScript. Implemented real-time data visualization components with Tailwind CSS while researching and integrating third-party voter tools.  Key Technologies: React, TypeScript, Tailwind CSS, GitHub Copilot",
+        "url": "https://election.dailywire.com/",
+        "github": "https://github.com/colin-macrae/election-wire",
+        "image": "/daily-wire.jpg"
       },
       {
         "title": "Mass Commercial Cleaning",
-        "description": "A one-page WordPress build with a blog/announcements page in place (not activated yet).  This site was a quick 48-hour turnaround for a friend starting a small bilingual church within a Mandarin Chinese church in Taichung, Taiwan. Volunteer project.",
-        "url": "https://muyi-bilingual.com/",
-        "github": "https://github.com/colin-macrae/pinocelli-cycling-apparel",
-        "image": "/muyi-bilingual.png"
+        "description": "Led front-end development for a full company website rebuild using React, TypeScript and Tailwind CSS. Transformed mockups into a responsive, modern interface with serverless form functionality powered by EmailJS. Key Technologies: React, TypeScript, Tailwind CSS, React Hook Form, EmailJS",
+        "url": "https://masscommercialcleaning.com/",
+        "github": "https://github.com/colin-macrae/MCC-Rebuild-C",
+        "image": "/masscleaning.jpg"
       },
       {
         "title": "Muyi Bilingual Congregation",
         "description": "A one-page WordPress build with a blog/announcements page in place (not activated yet).  This site was a quick 48-hour turnaround for a friend starting a small bilingual church within a Mandarin Chinese church in Taichung, Taiwan. Volunteer project.",
         "url": "https://muyi-bilingual.com/",
         "github": "https://github.com/colin-macrae/muyi-bilingual",
-        "image": "/muyi-bilingual.png"
+        "image": "/muyi.png"
       },
       {
         "title": "To-do App",
