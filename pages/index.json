@@ -20,32 +20,32 @@
   "about": {
     "title": "About me",
     "image": "/colin-macrae.jpg",
-    "primary": "Hello! I'm a passionate full-stack developer currently immersing myself in the dynamic realm of front-end development. Hailing from Orange County, CA, my journey into the world of coding began with a pivotal career change sparked by insightful conversations with developer friends. Encouraged by their enthusiasm, I delved into self-learning and formal education, completing an accelerated software development program at LearningFuze.",
-    "secondary": "My initial curiosity evolved into a deep-seated enjoyment of coding, leading me to commit full-time to becoming a proficient developer. Prior to this transformative career shift, I had diverse experiences in Taiwan, where I navigated roles ranging from branding consulting and project management to writing/editing academic journals and ESL materials, procurement, quality assurance, and English teaching. In the midst of this, I pursued my passion for Mandarin Chinese, earned my MBA, and dedicated time to cycling competitions—all while relishing the unique charm of Taiwan and its wonderful people."
+    "primary": "I’m a full-stack developer with a front-end focus, currently based in Orange County, CA. My journey into tech began after a career shift from diverse roles in Taiwan—including branding, project management, and ESL teaching—while also earning an MBA. Now, I specialize in building scalable web applications using React, TypeScript, and Tailwind CSS. Currently at Teamshares, I own the main website prject for Massachussets Commercial Cleaning, where I lead junior engineers on the project and handled client communications, while rebuilding the company website with modern tech stacks like serverless forms (EmailJS).  I also worked with The Daily Wire to develop their 2024 Elections Hub for the Presidential & General Election, handling high-traffic needs and researching voter tools. I also contribute as a volunteer web developer for Hack for LA, maintaining open-source projects through code reviews and agile collaboration.",
+    "secondary": "Beyond coding, I bring a unique blend of cross-disciplinary experience—from academic writing and procurement to quality assurance—along with a passion for Mandarin Chinese and competitive cycling. My background in varied industries helps me approach problems creatively, whether optimizing workflows, improving UX, or delivering clean, maintainable code. I thrive in collaborative environments while continuously expanding my technical skills."
   },
   "projects": {
     "title": "Projects",
     "projects": [
       {
-        "title": "Pinocelli Cycling Apparel",
-        "description": "A full-stack ecommerce web application for cyclists, for the purchase of premium cycling apparel",
-        "url": "https://pinocelli-app.azurewebsites.net/",
+        "title": "The Daily Wire",
+        "description": "A one-page WordPress build with a blog/announcements page in place (not activated yet).  This site was a quick 48-hour turnaround for a friend starting a small bilingual church within a Mandarin Chinese church in Taichung, Taiwan. Volunteer project.",
+        "url": "https://muyi-bilingual.com/",
         "github": "https://github.com/colin-macrae/pinocelli-cycling-apparel",
-        "image": "/pinocelli.png"
+        "image": "/muyi-bilingual.png"
       },
       {
-        "title": "Omnifood",
-        "description": "A dunmy HTML & CSS site I built as part of a tutorial",
-        "url": "https://colins-omnifood-css-project.netlify.app/#",
-        "github": "https://github.com/colin-macrae/Omnifood-Desktop--working-230727-",
-        "image": "/omnifood.png"
+        "title": "Mass Commercial Cleaning",
+        "description": "A one-page WordPress build with a blog/announcements page in place (not activated yet).  This site was a quick 48-hour turnaround for a friend starting a small bilingual church within a Mandarin Chinese church in Taichung, Taiwan. Volunteer project.",
+        "url": "https://muyi-bilingual.com/",
+        "github": "https://github.com/colin-macrae/pinocelli-cycling-apparel",
+        "image": "/muyi-bilingual.png"
       },
       {
-        "title": "Yellowstone Escape",
-        "description": "This is a React rebuild of my VanillaJS Yellowstone Escape site, accessing the National Parks and Services API",
-        "url": "https://yellowstone-escape-reactjs.netlify.app/",
-        "github": "https://github.com/colin-macrae/Yellowstone-Escape---VITE-REACT-version",
-        "image": "/yellowstone.png"
+        "title": "Muyi Bilingual Congregation",
+        "description": "A one-page WordPress build with a blog/announcements page in place (not activated yet).  This site was a quick 48-hour turnaround for a friend starting a small bilingual church within a Mandarin Chinese church in Taichung, Taiwan. Volunteer project.",
+        "url": "https://muyi-bilingual.com/",
+        "github": "https://github.com/colin-macrae/muyi-bilingual",
+        "image": "/muyi-bilingual.png"
       },
       {
         "title": "To-do App",

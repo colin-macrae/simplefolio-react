@@ -17,7 +17,7 @@ const About = () => {
           <Image
             src={about.image}
             alt="about"
-            className="shadow-lg"
+            className="shadow-lg rounded-md"
             width={300}
             height={300}
           />
